@@ -4,7 +4,7 @@
 <html>
  <head>   
    <h1 > Mercado, Resa Angela D. </h1> 
-  <img src="C:\Users\Resa Angela\Desktop\bwicit\alhaitham-genshin-impact.jpg" alt="HTML Logo" width="200" height="200">
+  <img src="" alt="HTML Logo" width="200" height="200" align="right">
    <p> Just Believe in yourself! </p>
    </head>
   <body bgcolor= "red"> 
