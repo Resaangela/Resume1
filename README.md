@@ -1,15 +1,21 @@
 # Resume1 
-<html><body> 
-
-<header> Mercado, Resa Angela D. </header>
-  <p> Just Believe in yourself! </p>
- <header> About Me!</header> 
+<!DOCTYPE html>
+<html>
+ <head>   
+   
+   <h1 > Mercado, Resa Angela D. </h1> 
+   <p> Just Believe in yourself! </p>
+   </head>
+  <body bg color="red"> 
+  <h2 > About Me!</h2> 
   <p> I'm a very kind person who is also ambitious in life, i also like gaming</p>
-<header> Education</header>
+  <h2> Education</h2>
    <p> I graduated from Benigno S. Aquino National Highscool from concepcion</p>
-  <header> Projects/ Experience</header>
+  <h2> Projects/ Experience</h2>
    <p> My only project so far is our SAD defense and my experience are basic codings</p>
-   <header> Contact</header>
-   <p> 0950414290000</p>
- 
-</body> </html>
+   <h2 align="right"> Contact</h2>
+  <p align="right"> 09504142904</p>
+  
+ <h2 align="right" > Comment Section </h2>
+  </body> 
+</html>
