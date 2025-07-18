@@ -1,13 +1,18 @@
-# Resume1 
+
 <!DOCTYPE html>
 <html lang="en">
 <html>
- <head>   
-   <h1 > Mercado, Resa Angela D. </h1> 
+ <head>  
+  <title>Resume</title>
+ 
   <img src="" alt="HTML Logo" width="200" height="200" align="right">
-   <p> Just Believe in yourself! </p>
+  
    </head>
+ 
   <body style="background-color:red"> 
+    <h1 > Mercado, Resa Angela D. </h1> 
+    <p> Just Believe in yourself! </p>
+   <hr>
   <h2 > About Me!</h2> 
   <p> I'm a very kind person who is also ambitious in life, i also like gaming</p>
    <hr>
