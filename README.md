@@ -1,15 +1,22 @@
 
 <!DOCTYPE html>
 <html lang="en">
+ 
 <html>
  <head>  
-  <title>Resume</title>
+  
+  
+
+    
+        
+  <img src="https://github.com/user-attachments/assets/2982b744-69ee-432e-a606-4fb8a992e5ec" width="100"
+height="100" align="right"/>
  
-  <img src="" alt="HTML Logo" width="200" height="200" align="right">
+
   
    </head>
  
-  <body style="background-color:red"> 
+  <body style="background-color: lightblue;"> 
     <h1 > Mercado, Resa Angela D. </h1> 
     <p> Just Believe in yourself! </p>
    <hr>
@@ -34,6 +41,13 @@
 <hr>
   
  <h2 align="right" > Comment Section </h2>
+
+ <hr>
+ <!-- makamurit -->
+
+<hr>
+
+
  
   </body> 
 </html>
