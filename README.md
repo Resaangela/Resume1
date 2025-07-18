@@ -7,7 +7,7 @@
   <img src="" alt="HTML Logo" width="200" height="200" align="right">
    <p> Just Believe in yourself! </p>
    </head>
-  <body bgcolor= "red"> 
+  <body style="background-color:red"> 
   <h2 > About Me!</h2> 
   <p> I'm a very kind person who is also ambitious in life, i also like gaming</p>
    <hr>
@@ -24,6 +24,9 @@
       
    <h2 align="right"> Contact</h2>
   <p align="right" > 09504142904</p>
+<a href="mailto:Angela@gmail.com">Send Email</a>
+
+<hr>
   
  <h2 align="right" > Comment Section </h2>
  
